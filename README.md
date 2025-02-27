@@ -4,9 +4,9 @@ Los archivos readme sirven para comunicar tu proyecto con cualquier otra persona
 
 
 
-
 ```
-El README es un archivo con extensión .md, es decir, está escrito en Markdown, que es un lenguaje de marcado utilizado para convertir texto en HTML válido.
+El README es un archivo con extensión .md, es decir, está escrito en Markdown,
+que es un lenguaje de marcado utilizado para convertir texto en HTML válido.
 
 ```
 
